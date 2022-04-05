@@ -17,11 +17,9 @@ Returns all the Users for a given Project
 
 ### Usage
 usage: get_all_users_from_project.sh <alm-url:port> <sa_username> <password> <project> \[\<domain\>\] 
-  
-  
+    
   example: get_all_users_from_project.sh http://nimbusserver.aos.com:8082 admin Password1 ESIG \[\<domain\>\] 
-  
-  
+    
   example: get_all_users_from_project.sh http://nimbusserver.mfadvantageinc.com:8082 admin mfDemo\$20 AOS \[\<domain\>\] 
   
 ## get_user_projects.sh
